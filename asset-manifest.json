@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dchobarkar/typing-master/static/css/main.6ea068b9.css",
+    "main.js": "/dchobarkar/typing-master/static/js/main.d0e9b9b3.js",
+    "static/js/787.c509de75.chunk.js": "/dchobarkar/typing-master/static/js/787.c509de75.chunk.js",
+    "index.html": "/dchobarkar/typing-master/index.html",
+    "main.6ea068b9.css.map": "/dchobarkar/typing-master/static/css/main.6ea068b9.css.map",
+    "main.d0e9b9b3.js.map": "/dchobarkar/typing-master/static/js/main.d0e9b9b3.js.map",
+    "787.c509de75.chunk.js.map": "/dchobarkar/typing-master/static/js/787.c509de75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea068b9.css",
+    "static/js/main.d0e9b9b3.js"
+  ]
+}
