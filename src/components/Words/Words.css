@@ -1,0 +1,14 @@
+.words-container {
+  max-height: 13vh;
+  max-width: 55vw;
+  padding: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+  border: 1px solid wheat;
+}
+
+.word-ele {
+  margin-left: 10px;
+  padding: 5px;
+}
