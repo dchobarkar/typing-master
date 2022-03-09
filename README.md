@@ -1,4 +1,4 @@
-# Gopalkar & Company
+# Typing Master
   A react app to master your typing skill. Check your typing speed under 1 minute timer.
 
 ### Technology Stack
@@ -15,7 +15,7 @@
   Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
   
 ### Usage
-  Nevigate to the url and go through the services offered by Gopalkar & Company
+  Nevigate to the url and start typing. The timer will start automatically for 1 minute.
   
 ### Credits  
 * Author - [Darshan Chobarkar](https://www.linkedin.com/in/dchobarkar/)
