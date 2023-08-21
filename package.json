@@ -1,7 +1,10 @@
 {
   "homepage": "https://dchobarkar.github.io/typing-master/",
   "name": "typing-master",
-  "version": "0.1.0",
+  "description": "react app to practice typing skills.",
+  "version": "1.0.0",
+  "author": "Darshan Chobarkar <contact@darshanwebdev.com> (https://darshanwebdev.com)",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
